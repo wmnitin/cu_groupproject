@@ -50,7 +50,7 @@ const App = () => {
               <MenuIcon />
             </IconButton>
             <Typography variant="h6" className={classes.title}>
-              DT Engineering
+              Router Installation
             </Typography>
             <Button color="inherit" onClick={() => (window.location = "/")}>
               Login
