@@ -58,7 +58,7 @@ const App = () => {
           </Toolbar>
         </AppBar>
 
-        <Router>
+        <Router basename='/cu_groupproject/'>
           <div style={{ margin: "25px" }}>
             <Switch>
               <Route path="/scancode">
